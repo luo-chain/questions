@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 問答</title>
-    <link>http://luo-chain.github.io/questions/tags/</link>
+    <link>https://luo-chain.github.io/questions/tags/</link>
     <description>Recent content in Tags on 問答</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     
-	<atom:link href="http://luo-chain.github.io/questions/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luo-chain.github.io/questions/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
